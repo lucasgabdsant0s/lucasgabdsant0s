@@ -1,58 +1,76 @@
-# 👋 Olá, eu sou o Lucas!  
-*(Scroll down for English version)*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4500&pause=700&color=00E0FF&center=true&vCenter=true&width=750&lines=Olá!+Sou+Lucas+Gabriel;Engenharia+de+Software;18+anos+%F0%9F%9A%80;Full-Stack+Dev+%7C+Trabalhando+h%C3%A1+8+meses" alt="Typing SVG" />
+</div>
 
-Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Full-Stack apaixonado por APIs, Banco de dados e Desenvolvimento WEB.
+<br>
 
-## 🖊️ Sobre Mim
-- 🎓 Desenvolvedor Fullstack, com 18 anos, desenvolvendo habilidades em **frontend** e **backend**.
-- 🚀 Focado em aprender e compartilhar projetos no GitHub.
-- 📚 No momento, estudando Java e me aprimorando em **NodeJS** e **PHP**.
+<div align="center">
+  <a href="mailto:lucasgabrieldossantos753@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-gabriel-5301b2331" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-## 🛠️ Tecnologias e Ferramentas
-### Linguagens
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=000&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
+<br>
 
----
+## 🧑‍💻 Sobre mim
 
-## 📬 Conecte-se Comigo
-- **E-mail**: [lucasgabrieldossantos753@gmail.com](mailto:lucasgabrieldossantos753@gmail.com)  
-- **LinkedIn**: [Lucas Gabriel](https://www.linkedin.com/in/lucas-gabriel-5301b2331)  
+- 🎓 **Estudante de Engenharia de Software**  
+- 💼 **Desenvolvedor Full-Stack** com **8 meses de experiência profissional**  
+- 🔭 Focado em construir aplicações escaláveis, APIs robustas e interfaces modernas  
+- 🌱 Stack principal: **Node.js**, **Laravel (PHP)**, **React.js**, **Docker**  
+- ⚡ Apaixonado por clean code, arquitetura de software, DevOps e boas práticas  
+- 📍 Guarulhos, SP – Brasil  
 
----
-
-# 👋 Hello, I'm Lucas!
-
-Welcome to my GitHub profile! I'm a Full-Stack Developer passionate about APIs, Databases, and Web Development.
-
-## 🖊️ About Me
-- 🎓 Full-Stack Developer, 18 years old, developing skills in **frontend** and **backend**.
-- 🚀 Focused on learning and sharing projects on GitHub.
-- 📚 Currently studying Java and improving my skills in **NodeJS** and **PHP**.
-
-## 🛠️ Technologies and Tools
-### Languages
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=000&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
+"Transformando requisitos em código que realmente funciona e escala."
 
 ---
 
-## 📬 Connect With Me
-- **Email**: [lucasgabrieldossantos753@gmail.com](mailto:lucasgabrieldossantos753@gmail.com)  
-- **LinkedIn**: [Lucas Gabriel](https://www.linkedin.com/in/lucas-gabriel-5301b2331)  
+## 🛠️ Tech Stack Principal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,react,typescript,javascript,tailwind,docker,mysql,postgres,mongodb,git,github,vscode,postman,linux&perline=8" alt="tech stack" />
+</div>
+
+### Detalhado
+**Backend**  
+Node.js • Express • Laravel (PHP) • APIs REST/GraphQL • TypeScript  
+
+**Frontend**  
+React.js • TypeScript • Tailwind CSS • HTML5/CSS3 • Responsividade & UX  
+
+**DevOps & Ferramentas**  
+Docker • Git • GitHub • Linux • Postman • CI/CD básico  
+
+**Bancos de Dados**  
+MySQL • PostgreSQL • MongoDB  
+
+**Outros**  
+JWT/Auth • Prisma/Sequelize/TypeORM • Testes unitários/integração  
+
+---
+
+## 🌟 Projeto em Destaque: Orbitra
+
+**Orbitra** – github.com/lucasgabdsant0s/orbitra 
+
+- Tecnologias: Node.js + React + Docker
+- Funcionalidades principais: Gerenciamento de projetos
+- Status: Em evolução
+
+Mais projetos no meu GitHub!
+
+---
+
+## 📈 Visitantes
+
+Obrigado por visitar! 💜  
+Aberto a colaborações, freelas, networking e boas conversas sobre código.  
+
+Me chama no LinkedIn!  
+
+Feito com ❤️ por um dev que estuda, trabalha e evolui todo dia.
+
+---
