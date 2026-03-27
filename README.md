@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4500&pause=700&color=00E0FF&center=true&vCenter=true&width=750&lines=Olá!+Sou+Lucas+Gabriel;Engenharia+de+Software;18+anos+%F0%9F%9A%80;Full-Stack+Dev+%7C+Trabalhando+h%C3%A1+8+meses" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4500&pause=700&color=00E0FF&center=true&vCenter=true&width=750&lines=Olá!+Sou+Lucas+Gabriel;Desenvolvedor+Full+Stack;Foco+em+Sistemas+Reais+e+Escaláveis;Node.js+%7C+React+%7C+Docker" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="mailto:lucasgabrieldossantos753@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:lucasgabdsantos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/lucas-gabriel-5301b2331" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/lucas-dev-gabriel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -17,60 +17,80 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 **Estudante de Engenharia de Software**  
-- 💼 **Desenvolvedor Full-Stack** com **8 meses de experiência profissional**  
-- 🔭 Focado em construir aplicações escaláveis, APIs robustas e interfaces modernas  
-- 🌱 Stack principal: **Node.js**, **Laravel (PHP)**, **React.js**, **Docker**  
-- ⚡ Apaixonado por clean code, arquitetura de software, DevOps e boas práticas  
+Desenvolvedor Full Stack com experiência prática em construção de aplicações web, APIs e sistemas em produção.
+
+Atuo desde o desenvolvimento até o deploy, garantindo que as aplicações sejam **estáveis, performáticas e prontas para uso real**.
+
+- 🎓 Engenharia de Software  
+- 💼 Experiência profissional com desenvolvimento web  
+- ⚙️ Foco em backend, arquitetura e integração de sistemas  
+- 🚀 Experiência com Docker, APIs REST e ambientes Linux  
 - 📍 Guarulhos, SP – Brasil  
 
-"Transformando requisitos em código que realmente funciona e escala."
+> Transformo requisitos em sistemas funcionais, bem estruturados e prontos para escalar.
 
 ---
 
-## 🛠️ Tech Stack Principal
+## 🛠️ Stack Principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,react,typescript,javascript,tailwind,docker,mysql,postgres,mongodb,git,github,vscode,postman,linux&perline=8" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,react,typescript,javascript,tailwind,docker,postgres,mysql,mongodb,git,github,linux,postman&perline=8" />
 </div>
 
-### Detalhado
-**Backend**  
-Node.js • Express • Laravel (PHP) • APIs REST/GraphQL • TypeScript  
+---
 
-**Frontend**  
-React.js • TypeScript • Tailwind CSS • HTML5/CSS3 • Responsividade & UX  
+## ⚙️ Especialidades
 
-**DevOps & Ferramentas**  
-Docker • Git • GitHub • Linux • Postman • CI/CD básico  
+🔹 **Backend & APIs**  
+Node.js • Express • Laravel • REST APIs • TypeScript  
+Criação de APIs robustas, organização de código e regras de negócio bem definidas.
 
-**Bancos de Dados**  
-MySQL • PostgreSQL • MongoDB  
+🔹 **Frontend**  
+React.js • TypeScript • Tailwind  
+Interfaces modernas, responsivas e com boa experiência de usuário.
 
-**Outros**  
-JWT/Auth • Prisma/Sequelize/TypeORM • Testes unitários/integração  
+🔹 **Infraestrutura & Deploy**  
+Docker • Linux • VPS • Git  
+Aplicações rodando em ambiente real, com consistência e previsibilidade.
+
+🔹 **Banco de Dados**  
+PostgreSQL • MySQL • MongoDB  
+Modelagem eficiente e otimização de queries.
 
 ---
 
-## 🌟 Projeto em Destaque: Orbitra
+## 🚀 Projeto em Destaque
 
-**Orbitra** – github.com/lucasgabdsant0s/orbitra 
+### 🧠 Orbitra – Sistema de Gestão de Projetos
 
-- Tecnologias: Node.js + React + Docker
-- Funcionalidades principais: Gerenciamento de projetos
-- Status: Em evolução
+Sistema completo de gerenciamento de tarefas com foco em organização, escalabilidade e arquitetura limpa.
 
-Mais projetos no meu GitHub!
+**Stack:** Node.js • React • TypeScript • Docker  
+
+**Destaques:**
+- Estrutura baseada em Clean Architecture  
+- Organização de domínio e separação de responsabilidades  
+- Preparado para múltiplos usuários e expansão  
+
+🔗 https://github.com/lucasgabdsant0s/orbitra
 
 ---
 
-## 📈 Visitantes
+## 📈 Experiência prática
 
-Obrigado por visitar! 💜  
-Aberto a colaborações, freelas, networking e boas conversas sobre código.  
+- Desenvolvimento e manutenção de aplicações web  
+- Integração com APIs externas e sistemas reais  
+- Padronização de ambientes com Docker  
+- Otimização de performance em APIs  
+- Correção de bugs críticos e melhoria de código  
 
-Me chama no LinkedIn!  
+---
 
-Feito com ❤️ por um dev que estuda, trabalha e evolui todo dia.
+## 🤝 Contato
+
+Aberto a oportunidades, freelas e networking.
+
+📩 Email: lucasgabdsantos@gmail.com  
+💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/lucas-dev-gabriel/)  
 
 ---
