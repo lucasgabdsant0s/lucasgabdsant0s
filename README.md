@@ -61,16 +61,23 @@ Modelagem eficiente e otimização de queries.
 
 ## 🚀 Projeto em Destaque
 
-### 🧠 Orbitra – Sistema de Gestão de Projetos
+### 🧠 Orbitra – Sistema de Gestão de Projetos (SaaS)
 
-Sistema completo de gerenciamento de tarefas com foco em organização, escalabilidade e arquitetura limpa.
+Plataforma web completa para gerenciamento de projetos e tarefas, onde equipes podem organizar, acompanhar e colaborar em suas atividades de forma eficiente.
+
+O sistema permite criar projetos, gerenciar tarefas em quadros Kanban (arrastar e soltar), definir responsáveis, prazos e acompanhar o progresso em tempo real.
+
+Desenvolvido com foco em escalabilidade e organização, utilizando Clean Architecture e estrutura preparada para múltiplos usuários (multi-tenant), garantindo segurança e separação de dados entre organizações.
 
 **Stack:** Node.js • React • TypeScript • Docker  
 
 **Destaques:**
-- Estrutura baseada em Clean Architecture  
-- Organização de domínio e separação de responsabilidades  
-- Preparado para múltiplos usuários e expansão  
+- Gestão de projetos e tarefas com interface estilo Kanban (drag and drop)
+- Sistema multi-tenant (múltiplas organizações isoladas)
+- Autenticação segura com JWT (access + refresh token)
+- Dashboard com métricas e visão geral dos projetos
+- Arquitetura limpa (Clean Architecture) e código escalável
+- Ambiente totalmente dockerizado para fácil deploy
 
 🔗 https://github.com/lucasgabdsant0s/orbitra
 
